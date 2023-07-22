@@ -1,0 +1,1 @@
+document.getElementsByClassName('h4-js')
